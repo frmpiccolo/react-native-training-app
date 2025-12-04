@@ -1,4 +1,4 @@
-# Aplicativo de Treinamento em React Native e Expo
+# React Native e Expo: App de exemplo
 
 Este repositório contém um **projeto de exemplo** desenvolvido para treinar a equipe no uso de **React Native** e **Expo**. O objetivo é oferecer um exemplo simples, porém funcional, que aborde os principais tópicos do treinamento: configuração do ambiente, arquitetura da aplicação, navegação com React Navigation, gerenciamento de estado com Context e React Query, utilização de módulos nativos do Expo e dicas de depuração.
 
