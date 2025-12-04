@@ -116,6 +116,30 @@ dist
 # DynamoDB Local files
 .dynamodb/
 
+# New modifications to ignore
+# ============================================================================
+# Expo e React Native
+#
+# O Expo cria arquivos e diretórios temporários durante o desenvolvimento e
+# quando você executa `expo prebuild` ou `eas build`. Esses artefatos não devem
+# ser versionados. A inclusão abaixo garante que essas pastas não sejam
+# commitadas no Git.
+
+# Diretório com cache e configurações específicas do Expo
+.expo/
+.expo-shared/
+
+# Pastas nativas geradas por "expo prebuild" ou pelo EAS Build
+ios/
+android/
+
+# Saídas de build e distribuição
+build/
+dist/
+
+# Configurações e metadados do Visual Studio Code
+.vscode/
+
 # Firebase cache directory
 .firebase/
 

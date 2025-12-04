@@ -1,0 +1,1 @@
+This directory contains placeholder images used by the Expo configuration. The files will be added by the setup script.
